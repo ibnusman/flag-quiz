@@ -1,4 +1,4 @@
-# Flag-Quiz Application
+# Flag-Quiz Application.
 
 A web-based quiz application where users identify countries based on their flags. The app is built using **Node.js**, **Express**, **EJS**, and **PostgreSQL** for database management.
 
