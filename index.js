@@ -52,7 +52,7 @@ app.get("/", (req, res) => {
   res.render("index.ejs", { question: currentQuestion });
 });
 
-// POST a new post
+// POST a new 
 app.post("/submit", (req, res) => {
   let answer = req.body.answer.trim();
   let isCorrect = false;
