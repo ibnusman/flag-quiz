@@ -6,7 +6,7 @@ A web-based quiz application where users identify countries based on their flags
 
 ## Features
 
-- Random flag-based quiz questions
+- Random flag-based quiz questions.
 - Dynamic score tracking
 - Responsive user interface with EJS templating
 - PostgreSQL integration for storing flag data
