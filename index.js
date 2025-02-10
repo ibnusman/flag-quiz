@@ -44,7 +44,7 @@ app.use(express.static("public"));
 
 let currentQuestion = {};
 
-// GET home paths
+// GET home 
 app.get("/", (req, res) => {
   totalCorrect = 0;
   nextQuestion();
